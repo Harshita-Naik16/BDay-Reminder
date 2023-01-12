@@ -1,7 +1,7 @@
 {
   "homepage": "http://Harshita-Naik16.github.io/Birthday-Reminder",
   "name": "bday-reminder",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
