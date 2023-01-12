@@ -1,8 +1,7 @@
 import React from 'react'
-import './App.css'
-import data from './data'
-import Person from './Person'
-
+import './src/App.css'
+import data from './src/modules/data'
+import Person from './src/modules/Person'
 function App() {
    const [click, setClick] = React.useState(true)
 
