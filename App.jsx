@@ -1,5 +1,4 @@
 import React from 'react'
-import './dist/assets/index-7b2bc904.css'
 import data from './src/modules/data'
 import Person from './src/modules/Person'
 function App() {
